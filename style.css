@@ -56,6 +56,5 @@ button.no-btn {
     background: white;
     color: #b83562;
     position: absolute;
-    left: 50%;
     transform: translateX(-50%);
 }
